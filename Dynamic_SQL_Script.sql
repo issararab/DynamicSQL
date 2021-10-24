@@ -1,7 +1,7 @@
 -- ========================================================================
 -- Author      : <Issar Arab>
--- Created     : <date: 26.08.2020,>
--- Modified    : <date: 15.01.2021,>
+-- Created     : <date: 26.08.2020>
+-- Modified    : <date: 15.01.2021>
 -- Description : <Dynamic script distributing incentives to Partners,
 --                 in both Germany and Western Europe, 
 --                 based on their revenue/consumption made on 6 
